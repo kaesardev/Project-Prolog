@@ -1,4 +1,4 @@
-/*
+﻿/*
  *	Diretivas de pré-processamento
 */
 :- dynamic
@@ -248,7 +248,7 @@ read_migratory(X) :-
 	read(Z),
 	(
 		Y == 1, Z == 2,	assertz(vista_no_verao_canada(X));
-		Y == 4, Z == 1, assertz(vista_no_inverno_eua(X));
+		Y == 3, Z == 1, assertz(vista_no_inverno_eua(X));
 		true
 	).
 	

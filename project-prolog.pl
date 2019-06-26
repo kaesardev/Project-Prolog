@@ -125,7 +125,7 @@ read_cheekcolor(X) :-
 	).
 
 read_size(X) :-
-	write('Tamanho do ave'), nl,
+	write('Tamanho da ave'), nl,
 	write('1. Pequena'), nl,
 	write('2. Mediana'), nl,
 	write('3. Grande'), nl,

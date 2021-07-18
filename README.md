@@ -6,7 +6,7 @@ The application was written in Prolog, and it appeared like academic work for th
 
 ## Authors
 
-* **Júlio César** - *Initial work* - [KaesarZ](https://github.com/KaesarZ)
+* **Júlio Barros** - *Initial work* - [kaesardev](https://github.com/kaesardev)
 * **Renato Gabriel** - *Initial work* - [Renabouj](https://github.com/Renabouj)
 
 See also the list of [contributors](https://github.com/KaesarZ/TicTacToe-GameTree/contributors) who participated in this project.
